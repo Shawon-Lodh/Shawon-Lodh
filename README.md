@@ -1,51 +1,101 @@
-# Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> I'm Shawon Lodh 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shawonlodh25">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shawon-lodh">
-<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="100" height="50"/></a> 
-<a href="https://profile.codersrank.io/user/shawon-lodh">
-<img src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" alt="CodersRank" width="100" height="50"/></a> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shawon+Lodh!;&center=true&size=30">
+  </a>
+</h1>
 
-<!-- [![shawon's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17956869?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17956869 "shawon's Stack Overflow Reputation")   -->
-    
+<br>
+<p align="center">
+  Hi, I'm Shawon Lodh, Mobile Application Developer/UI Designer, Coder, Learner from Bangladesh
+  <br>
+  <br>
+  🎓 Completed my Bachelor of Science Degrees from <a href="https://www.aust.edu"> AUST </a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 I’m currently working as Flutter developer at <a href="https://aqualinkbangladesh.com"> Aqualink Bangladesh Limited</a>
+  <br>
 </p>
 
-### I am an Android Developer & UI Designer
-  
-  * 😁 Nice to meet you!  
-  
-<!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00) -->
-  
-  
-<h3>Technologies</h3>
-<p>
-<img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/>
+<div align="center"> 
+  <a href = "mailto:shawonlodh25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/shawon-lodh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
- 
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- 
- <img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
- 
-  <img height=50 src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
- 
+</div>
+
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,figma,mysql" />
+
+  </a>
+</p>
+<br>
+<h4 align="center">Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,googlecloud,tensorflow,flutter" />
+  </a>
+</p>
+<hr>
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+
+  <hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon-Lodh&theme=react&border=61dafb&hide_border=true" alt="Shawon-Lodh" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Shawon-Lodh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawon-Lodh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Shawon-Lodh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<hr>
 
-![snake gif](https://github.com/Shawon-Lodh/Shawon-Lodh/blob/output/github-contribution-grid-snake.gif)
-  
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br> -->
 
-<!--
-**enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <div width="100%" align="center">
+  <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
+</div> -->
 
-Here are some ideas to get you started:
+<!-- <br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <br><br><br><br><br><br> -->
+
+<h4 align="center">
+  <a href="https://github.com/Shawon-Lodh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
