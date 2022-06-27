@@ -6,7 +6,7 @@
 <a href="https://profile.codersrank.io/user/shawon-lodh">
 <img src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" alt="CodersRank" width="100" height="50"/></a> 
 
-[![shawon's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17956869?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17956869 "shawon's Stack Overflow Reputation")  
+<!-- [![shawon's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/17956869?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/17956869 "shawon's Stack Overflow Reputation")   -->
     
 </p>
 
