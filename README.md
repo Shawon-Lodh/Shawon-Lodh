@@ -1,12 +1,31 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shawonlodh25">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shawon+Lodh!;&center=true&size=30">
   </a>
+  
+  <p align="center">
+  <a href="https://leetcode.com/shawonlodh/">
+    <img src="https://cp-logo.vercel.app/leetcode/shawonlodh" alt="Leet code rating" />
+  </a>
+<!--   <a href="https://codeforces.com/profile/shawonlodh">
+    <img src="https://raw.githubusercontent.com/shawonlodh/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a> -->
+  <a href="https://stackoverflow.com/users/17956869/shawon">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17956869?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/Shawon-Lodh?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shawon-Lodh?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Shawon-Lodh/">
+    <img src="https://komarev.com/ghpvc/?username=Shawon-Lodh" alt="visitors" />
+  </a>
+
+</p>
+  
 </h1>
 
-<br>
+ <h3 align="center"> A little about me... <a href="https://gifyu.com/image/Zy2f"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a></h3>
 <p align="center">
   Hi, I'm Shawon Lodh, Mobile Application Developer/UI Designer, Coder, Learner from Bangladesh
   <br>
@@ -15,31 +34,44 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently working as Flutter developer at <a href="https://aqualinkbangladesh.com"> Aqualink Bangladesh Limited</a>
+  🧑‍💼 I’m currently working as Mobile Application developer at <a href="https://aqualinkbangladesh.com"> Aqualink Bangladesh Limited</a>
   <br>
 </p>
 
-<div align="center"> 
-  <a href = "mailto:shawonlodh25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/shawon-lodh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
+
+<h4 align="center">My DevSetup</h4>
+<p align="center">
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/windows.png"></code>
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/postman.png"></code>
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/android_studio.png"></code>
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/visual_studio.png"></code>
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/chrome.png"></code>
+  <code><img height="30" src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/dev_tools/terminal.png"></code>
+</p>
+<h4 align="center">Some Tool and Tech I use</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,dart,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,figma,mysql" />
-
+    <code><img height="30" src="https://skillicons.dev/icons?i=git"/></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=github"/></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=python"/></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=dart"/></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=flutter"/></code>
+    <br>
+    <code><img height="30" src="https://skillicons.dev/icons?i=java" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=kotlin" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=figma" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=mysql" /></code>
   </a>
 </p>
-<br>
 <h4 align="center">Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,googlecloud,tensorflow,flutter" />
+    <code><img height="30" src="https://skillicons.dev/icons?i=go" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=googlecloud" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=tensorflow" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=flutter" /></code>
   </a>
 </p>
 <hr>
@@ -80,6 +112,13 @@
 
 <hr>
 
+<h2 align="center">⚡ Competitive Programming ⚡</h2>
+<br>
+<p align="center">
+<img height="273em" src="https://leetcard.jacoblin.cool/shawonlodh?theme=light&font=Karma&ext=contest" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/shawonlodh/cf-stats/main/output/light_card.svg" /> -->
+</p>
+
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br> -->
 
@@ -96,6 +135,16 @@
 
 <!-- <br><br><br><br><br><br> -->
 
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://github.com/Shawon-Lodh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> -->
+
+
+<div align="center"> 
+  <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Shawon-Lodh/Shawon-Lodh/blob/main/files/handshake.gif" width="60"></a></h3> 
+<!--   <a href = "mailto:shawonlodh25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href = "https://www.linkedin.com/in/shawon-lodh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "https://www.facebook.com/Shawon.Lodh.25" target="_blank"><img src="https://img.shields.io/badge/-FaceBook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  
+
+</div>
