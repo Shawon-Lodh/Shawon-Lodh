@@ -33,7 +33,7 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently working as Mobile Application developer at <a href="https://aqualinkbangladesh.com"> Aqualink Bangladesh Limited</a>
+  🧑‍💼 I’m currently working as Associate Software Engineer at <a href="https://sslwireless.com/">SSL Wireless</a>
   <br>
 </p>
 
